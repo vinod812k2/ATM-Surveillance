@@ -10,4 +10,4 @@ The functions perfomed by our ML/AI model are:
 An extension to this will be anomalous activity tracking using LSTM and CNN.
 
 ## Demo
-![Alt text](https://github.com/vinod812k2/ATM-Surveillance/Demo.gif)
+![Alt text](https://github.com/vinod812k2/ATM-Surveillance/blob/main/Demo.gif)
