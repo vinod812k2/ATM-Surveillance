@@ -1,5 +1,5 @@
-# InfyHack
-This repository contains the code to the features incorporated in ML/AI challenge of Infosys Digital Makeathon'18, on the use case "ATM Surveillance in Banks" which fetched us the runners up position.
+
+This repository contains the code to the features incorporated in ML/AI on the use case "ATM Surveillance in Banks"
 
 The functions perfomed by our ML/AI model are:
 
